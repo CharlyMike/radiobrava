@@ -1,0 +1,88 @@
+*, ::after, ::before {
+	box-sizing: border-box;
+}
+.contenedorPlay {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	height: 70px;
+	z-index: 9999;
+	background: rgb(38,50,200);
+    background: -moz-linear-gradient(0deg, rgba(38,50,200,1) 0%, rgba(60,154,240,0.7987570028011204) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(38,50,200,1) 0%, rgba(60,154,240,0.7987570028011204) 100%);
+    background: linear-gradient(0deg, rgba(38,50,200,1) 0%, rgba(60,154,240,0.7987570028011204) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2632c8",endColorstr="#3c9af0",GradientType=1);
+}
+
+@keyframes glow-footerPlay {
+  from {
+    box-shadow: 0 0 10px -10px #e76161;
+  }
+  to {
+    box-shadow: 0 0 11px 11px #f78110;
+  }
+}
+
+.playerRadio {
+	padding-left: 120px;
+	position: absolute;
+	top: -30px;
+}
+/* @media all and (max-width:800px) and (min-width:1px) */
+.playerRadio {
+	padding-left: 20px;
+	position: absolute;
+	top: -27px;
+}
+
+.textoBanner {
+	font-family: Khand-SemiBold;
+	font-size: 1.4em;
+	color: #ffffff;
+	text-align: left;
+	position: absolute;
+	left: 350px;
+	top: 20px;
+	width: 90%;
+}
+/* @media all and (max-width:800px) and (min-width:1px) */
+.textoBanner {
+	font-family: Khand-SemiBold;
+	font-size: 1.1em;
+	color: #ffffff;
+	text-align: left;
+	position: absolute;
+	top: 10px;
+	left: 160px;
+	width: 60%;
+}
+.textoBanner1 {
+	font-family: Khand-SemiBold;
+	font-size: 1em;
+	color: #ffffff;
+	text-align: left;
+	position: absolute;
+	top: 45px;
+	left: 160px;
+	width: 60%;
+}
+p {
+	margin-top: 0px;
+	margin-bottom: 1rem;
+}
+
+audio {
+	width: 270px;
+	color: #fff;
+}
+.footerPlay, .footerStop {
+	cursor: pointer;
+	width: 75px;
+	border-radius: 50%;
+	animation: glow-footerPlay 2s infinite alternate;
+	-webkit-animation: glow-footerPlay 2s infinite alternate;
+	-moz-animation: glow-footerPlay 2s infinite alternate;
+	-o-animation: glow-footerPlay 2s infinite alternate;
+	-ms-animation: glow-footerPlay 2s infinite alternate;
+}
