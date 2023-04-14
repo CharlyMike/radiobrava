@@ -1,0 +1,162 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiobrava.net" resolutions="1x" timestamp="1601126997604">
+  <folder name="assets">
+    <file name="reproductor.css" crc="3849537407" seo="true" mt="1601125448000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="224248659"/>
+    <file name="index.css" crc="4213581765" ref="index"/>
+    <file name="nomq_index.css" crc="3906798122" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo radiobrava.png" crc="439796999" seo="true" ref="index">
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+      <caption webpage="index" alt="Este es el logo de RadioBrava"/>
+    </file>
+    <file name="fb rotate (color_blanco).svg" crc="466543587" ref="index"/>
+    <file name="fb rotate (color_blanco)_poster_u592.png" crc="4131572007" ref="index"/>
+    <file name="instagram rotate (color)-02.svg" crc="4199903735" ref="index"/>
+    <file name="instagram rotate (color)-02_poster_u573.png" crc="311209972" ref="index"/>
+    <file name="playstore(color_blanco).svg" crc="3941609904" ref="index"/>
+    <file name="playstore(color_blanco)_poster_u590.png" crc="4160930683" ref="index"/>
+    <file name="logoradiobravafooter.png" crc="317954854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb rotate (color).svg" crc="4137661702" ref="index"/>
+    <file name="fb rotate (color)_poster_u693.png" crc="153598719" ref="index"/>
+    <file name="instagram rotate (color)-01.svg" crc="341608895" ref="index"/>
+    <file name="instagram rotate (color)-01_poster_u724.png" crc="4039417491" ref="index"/>
+    <file name="playstore(color).svg" crc="448352967" ref="index"/>
+    <file name="playstore(color)_poster_u716.png" crc="86896752" ref="index"/>
+    <file name="charlymike.png" crc="434114707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radio-brava-104.7mhz---solo-música-favicon.ico" crc="3960484552" ref="index"/>
+    <file name="frecciatop.png" crc="177048718" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frecciatop2-u16941-r-fr.png" crc="246320542" ref="index"/>
+    <file name="image1.jpg" crc="465979943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="91114609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3.jpg" crc="3796950405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4.jpg" crc="455149854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image5.jpg" crc="3835625534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image6.jpg" crc="3948955976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image7.jpg" crc="4112412129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image8.jpg" crc="3799473237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blurred background p2 3-u485-fr2-u18531-fr-u18531-fr-u18531-fr.png" crc="398130204" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4148000042" seo="true" mt="1601126923817" redirect="true"/>
+</manifest>
